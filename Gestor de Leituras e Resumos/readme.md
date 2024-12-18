@@ -15,7 +15,7 @@ O objetivo deste projeto é praticar os conceitos de Programação Orientada a O
 - Atividades: Criação da classe Material e suas subclasses, funcionalidades de cadastro e busca de materiais.
 
 - Sophia Lacerda Buarque Magalhães Silva;
-- E-mail: slbm1@aluno.ifal.edu.br;
+- E-mail: slbms1@aluno.ifal.edu.br;
 - Atividades: Criação da interface, classe Resumo e Biblioteca, funcionalidades resumos e gerenciamento de leituras.
 
 ## Perguntas
@@ -24,7 +24,7 @@ O objetivo deste projeto é praticar os conceitos de Programação Orientada a O
 leitura e os testes de unidade.
 
 **2. Há algum problema/erro identificado no código ou execução?**
-- Alguns 'returns' não estão sendo exibidos, fora isso, até os testes que foram realizados não há nenhum erro aparente.
+- Alguns 'returns' não estão sendo exibidos e faltaram as validações de entrada, fora isso, até os testes que foram realizados não há nenhum erro aparente.
 
 **3. Descrição da experiência:**
 - Foi um projeto que realmente nos desafiou, poderíamos sim ter nos organizado melhor e administrado bem o nosso tempo. Certas funcionalidades foram feitas não por serem difíceis, mas pela falta de tempo e atrasos que tivemos na entrega do projeto.
