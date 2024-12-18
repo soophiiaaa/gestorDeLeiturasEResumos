@@ -45,8 +45,4 @@ function menuTipoBusca() {
     console.log('=====================================')
 } //função para exibição do menu para escolher o tipo de busca
 
-function testes() {
-    console.assert(biblioteca.cadastrarMaterial(material) === "Material cadastrado com sucesso!", 'ERRO: cadastrarMaterial(material)')
-}
-
 module.exports = { cadastrarMaterial, menu, menuTipoMaterial, menuBusca, menuTipoBusca }
