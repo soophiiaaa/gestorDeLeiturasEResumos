@@ -47,14 +47,12 @@ class Biblioteca {
     listarMateriais() {
         console.log('=====================================')
         for (let i = 0; i < this.#biblioteca.length; i++) {
-            console.log(`MATERIAL ${i + 1}\n- Título: ${this.#biblioteca[i].titulo}\n- Autor: ${this.#biblioteca[i].autor}`)
-
             if (this.#biblioteca[i].resumo) {
                 console.log(`MATERIAL ${i + 1}\n- Título: ${this.#biblioteca[i].titulo}\n- Autor: ${this.#biblioteca[i].autor}\n- Resumo: ${this.#biblioteca[i].resumo}`)
-            }
-
-            if (this.#biblioteca[i].status) {
+            } else if (this.#biblioteca[i].status) {
                 console.log(`MATERIAL ${i + 1}\n- Título: ${this.#biblioteca[i].titulo}\n- Autor: ${this.#biblioteca[i].autor}\n- Resumo: ${this.#biblioteca[i].resumo}\n- Status: ${this.#biblioteca[i].status}`)
+            } else {
+                console.log(`MATERIAL ${i + 1}\n- Título: ${this.#biblioteca[i].titulo}\n- Autor: ${this.#biblioteca[i].autor}`)
             }
         }
         console.log('=====================================')
