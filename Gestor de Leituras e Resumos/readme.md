@@ -9,7 +9,7 @@ O objetivo deste projeto é praticar os conceitos de Programação Orientada a O
 - [x] Listagem e Busca de Materiais
 - [x] Gerenciamento de Status de Leitura
 
-## Integrantes:
+## Integrantes
 - Manuela de Oliveira Rodrigues;
 - E-mail: mor3@aluno.ifal.edu.br;
 - Atividades: Criação da classe Material e suas subclasses, funcionalidades de cadastro e busca de materiais.
@@ -18,7 +18,7 @@ O objetivo deste projeto é praticar os conceitos de Programação Orientada a O
 - E-mail: slbm1@aluno.ifal.edu.br;
 - Atividades: Criação da interface, classe Resumo e Biblioteca, funcionalidades resumos e gerenciamento de leituras.
 
-## Perguntas:
+## Perguntas
 **1. Tudo o que foi pedido foi realizado? O que faltou desenvolver?**
 - Não, faltou desenvolver as funcionalidades em que o sistema atualize resumos e datas de 
 leitura e os testes de unidade.
@@ -32,7 +32,7 @@ leitura e os testes de unidade.
 **4. Dificuldades encontradas:**
 - A maior dificuldade foi a realização da busca de materiais, também às vezes era um pouco confuso trabalhar com a exportação de módulos e subclasses.
 
-## Referências:
+## Referências
 - Site freeCodeCamp: (https://www.freecodecamp.org/portuguese/news/quatro-modos-diferentes-de-procurar-em-um-array-em-javascript/)
 - Site DevMedia: (https://www.devmedia.com.br/sobrecarga-e-sobreposicao-de-metodos-em-orientacao-a-objetos/33066#:~:text=A%20sobrecarga%20de%20m%C3%A9todos%20)
 - Consultas ao fórum Stack Overflow sobre como iniciar a contagem de um array em 1. Disponível em https://pt.stackoverflow.com/questions/483199/como-contar-a-partir-do-1-em-vez-de-0-em-um-array-do-javascript#:~:text=Os%20arrays%20em%20JavaScript%20s%C3%A3o,somente%20no%20momento%20de%20exibir
